@@ -52,6 +52,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a third-year PhD candidate at the School of Politics and International Relations at University College Dublin. My research focuses on emergency politics in the Council of the European Union and the European Parliament through the lens of emergency language in elite crisis communication. My PhD project employs computational methods for analysing textual and multimodal data. My interests span elite public communication, EU politics, social media and computational methods for political science.   
