@@ -3,7 +3,7 @@
 title: Paula Montano
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Paula 
@@ -34,9 +34,17 @@ profiles:
     URL: 'mailto:paula.montano1@gmail.com'
     label: E-mail Me
   - icon: brands/x
+<<<<<<< HEAD
+    url: "https://x.com/PaulaMontano__"
+=======
     URL: 'https://x.com/PaulaMontano__'
+>>>>>>> b32c998ead730106f77a2eb398e7e16165e28a10
   - icon: brands/linkedin
+<<<<<<< HEAD
+    url: "https://ie.linkedin.com/in/paula-montano-3699625a"
+=======
     URL: 'https://ie.linkedin.com/in/paula-montano-3699625a'
+>>>>>>> b32c998ead730106f77a2eb398e7e16165e28a10
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -51,5 +59,4 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-
-I am a third-year PhD candidate at the School of Politics and International Relations at University College Dublin. My research focuses on emergency politics in the Council of the European Union and the European Parliament through the lens of emergency language in elite crisis communication. My PhD project employs computational methods for analysing textual and multimodal data. My interests span elite public communication, EU politics, social media and computational methods for political science.   
+ I am a third-year PhD candidate at the School of Politics and International Relations at University College Dublin. My research focuses on emergency politics in the Council of the European Union and the European Parliament through the lens of emergency language in elite crisis communication. My PhD project employs computational methods for analysing textual and multimodal data. My interests span elite public communication, EU politics, social media and computational methods for political science.   
