@@ -31,12 +31,12 @@ bio: I am a third-year PhD candidate at the School of Politics and International
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    URL: "mailto:paula.montano1@gmail.com"
+    URL: 'mailto:paula.montano1@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    URL: "https://x.com/PaulaMontano__"
+    URL: 'https://x.com/PaulaMontano__'
   - icon: brands/linkedin
-    URL: "https://ie.linkedin.com/in/paula-montano-3699625a"
+    URL: 'https://ie.linkedin.com/in/paula-montano-3699625a'
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
