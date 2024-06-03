@@ -35,13 +35,13 @@ profiles:
     label: E-mail Me
   - icon: brands/x
 <<<<<<< HEAD
-    url: "https://x.com/PaulaMontano__"
+    url: 'https://x.com/PaulaMontano__'
 =======
     URL: 'https://x.com/PaulaMontano__'
 >>>>>>> b32c998ead730106f77a2eb398e7e16165e28a10
   - icon: brands/linkedin
 <<<<<<< HEAD
-    url: "https://ie.linkedin.com/in/paula-montano-3699625a"
+    url: 'https://ie.linkedin.com/in/paula-montano-3699625a'
 =======
     URL: 'https://ie.linkedin.com/in/paula-montano-3699625a'
 >>>>>>> b32c998ead730106f77a2eb398e7e16165e28a10
