@@ -1,26 +1,27 @@
 ---
-title: Uses
-date: 2023-10-24
+title: Teaching
+date: 2024-06-04
 hide_date: true
 reading_time: false
 ---
 
-The idea of a Uses page is to tell you about the stuff I use.
+As a PhD student I have been a head tutor and teaching assistant at the School of Politics and International Relations in UCD for the following undergraduate modules: 
 
-Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's Uses pages!
+## POL20050: Research Methods in Political Science (Spring 2022/2023/2024) 
 
-I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.
+- Conducted hands-on tutorials for learning the DeclareDesign package in R for experimental research. 
+- Conducted hands-on tutorials for learning research methods with R and data analysis. 
+- Conducted tutorials for learning  research methods with STATA. 
 
-## Website
+## POL10010: Individuals and the State: The Idea of Freedom in the History of Political Thought (Autumn 2023) 
 
-- [Hugo Blox](https://hugoblox.com) (see the tutorial on [Getting Started](/blog/get-started/))
+- Prepared guidelines for using generative AI tools for enhancing writing assignments. (with Dr. James P. Cross)
 
-## Editor + Terminal
+## POL: Introduction to EU Politics (Autumn 2022)
 
-- [Visual Studio Code](https://code.visualstudio.com/) is my current editor
-- Chrome is my main browser
-- iTerm2 is my terminal
+- Conducted a lecture on 'Writing Skills and Peer Review Process. 
+- Review and provide feedback on blog posts on EU Politics. 
 
-## Desktop Apps
+## POL: Foundations of Political Theory and International Relations (Autumn 2021/2022)
 
-- Better Touch Tool for window management and custom keyboard shortcuts
+- Prepared interactive and engaging tutorials for discussing political theory and international relations content.   
