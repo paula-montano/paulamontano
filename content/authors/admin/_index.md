@@ -11,7 +11,7 @@ last_name: Montano
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -43,9 +43,9 @@ profiles:
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+  - icon: brands/github
+    url: 'https://github.com/paula-montano'
+    label: GitHub
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
