@@ -22,7 +22,7 @@ role: PhD researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University College Dublin 
-  url: https://www.ucd.ie/spire/about/phdcandidates/
+    url: https://www.ucd.ie/spire/about/phdcandidates/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a third-year PhD candidate at the School of Politics and International Relations at University College Dublin. My research focuses on emergency politics in the Council of the European Union and the European Parliament through the lens of emergency language in elite crisis communication. My PhD project employs computational methods for analysing textual and multimodal data. My interests span elite public communication, EU politics, social media and computational methods for political science.   
