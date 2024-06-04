@@ -13,15 +13,15 @@ As a PhD student I have been a head tutor and teaching assistant at the School o
 - Conducted hands-on tutorials for learning research methods with R and data analysis. 
 - Conducted tutorials for learning  research methods with STATA. 
 
-## POL10010: Individuals and the State: The Idea of Freedom in the History of Political Thought (Autumn 2023) 
+## POL20010: Individuals and the State: The Idea of Freedom in the History of Political Thought (Autumn 2023) 
 
 - Prepared guidelines for using generative AI tools for enhancing writing assignments. (with Dr. James P. Cross)
 
-## POL: Introduction to EU Politics (Autumn 2022)
+## INRL20160: Introduction to EU Politics (Autumn 2022)
 
 - Conducted a lecture on 'Writing Skills and Peer Review Process. 
 - Review and provide feedback on blog posts on EU Politics. 
 
-## POL: Foundations of Political Theory and International Relations (Autumn 2021/2022)
+## INRL10010: Foundations of Political Theory and International Relations (Autumn 2021/2022)
 
 - Prepared interactive and engaging tutorials for discussing political theory and international relations content.   
