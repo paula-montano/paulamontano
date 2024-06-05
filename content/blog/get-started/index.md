@@ -5,8 +5,8 @@ date: 2024-06-05
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-![Image caption](./featured.png)
-Image credit: **Local Image Source**
+image:
+  caption: 'Image credit: [**featured**](https://unsplash.com)' 
 
 authors:
   - admin
