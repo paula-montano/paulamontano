@@ -21,9 +21,9 @@ tags:
 
 ## Overview
 
-The Party Manifesto for Irish Local and European Parliament Elections is project that I collaborate with Dr. Stefan Muller and Arthur Baranov. It provides an overview of manifestos in Ireland from 1999 to 2024. The dashboard allows users to explore the content of manifestos, compare visions on specific issues across parties and identify changes over time. Users can also identify specific terms (i.e. housing, immigration, economy, etc) and see ther frequency of these terms in the parties manifestos. 
+The Party Manifesto for Irish Local and European Parliament Elections is a project in collaboration with Dr. Stefan Müller and Arthur Baranov. It provides an overview of manifestos in Ireland from 1999 to 2024. The dashboard allows users to explore the content of manifestos, compare visions on specific issues across parties and identify changes over time. Users can also identify specific terms of interest (i.e. housing, immigration, economy, etc.) and see the frequency of these terms in the manifestos. 
 
-This collection of manifestos are open-access and you can cite our project and add the link to the Manifesto Explorer Dashboard website.   
+This collection of manifestos is open-access and was built based on the collection of [Michael Pidgeon](http://www.michaelpidgeon.com/manifestos/). If you plan to use the Party Manifesto for Irish Local and European Parliament Electionscan, please cite our project and add the link to the Manifesto Explorer Dashboard website below.   
 
 ### Get Started
 
